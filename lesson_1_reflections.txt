@@ -1,0 +1,8 @@
+we can use diff from command line and file1 and file2 also required
+With version control and having entire history of a document probably the most valuable feature what we need
+Pros of having manaul version control: you can create a logical set of commitable things, cons: easy to forget
+Why some version control systems like Git allows saving multiple files in one commit while others don't allow it? - Because sometimes we need multiple files in one project and all the files are the same. Other systems are not developer systems.
+To start to see the versions you can enter to Bash: git log, if you want to check the ids of different versions
+By typing git diff id1 id2 - you will get the differences.
+How might using version control make you more confident to make changes that could break something? - now I am more relaxed on this - we can find the problem anytime
+Now that you have your workspace set up, what do you want to try using Git for? - Now I want to start a project and save versions
